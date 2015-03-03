@@ -1,1 +1,1 @@
-The upstream remote is used to merge the information in the current branch with the master branch
+The upstream remote is used to "fetch" (get the information) from the "upstream" (original) repository when you create a fork.
